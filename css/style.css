@@ -1,0 +1,22 @@
+.cards-personalizados {
+    width: 48%;
+}
+
+.row {
+    margin-top: 1%;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+
+footer {
+    margin-top: 5%;
+}
+
+form {
+    width: 50%;
+    margin: 0 auto;
+}
+
+form div {
+    width: 100%;
+}
